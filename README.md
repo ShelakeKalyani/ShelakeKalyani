@@ -1,1 +1,1 @@
-Hi, I’m Shelake Kalyani.I have a knowledge of some basic Programming languages like C,JAVA and Python. As a Full Stack Developer I have a knowledge about frontend techologies HTML,CSS,Bootstrap,Javascript and React Js and in backend technology PHP and CodeIgniter framework.Also I am familiar with database MySQL.
+Software Developer | Web Developer
