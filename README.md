@@ -1,1 +1,1 @@
-Software Developer | Web Developer
+Software Developer | Web Developer 💻
